@@ -1,0 +1,2 @@
+include ':app', ':serviceproviderlib', ':business1', ':business2', ':baselayer'
+rootProject.name='GeneralServiceProvider'

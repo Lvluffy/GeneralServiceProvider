@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.luffy.business1">
+
+    <application>
+        <activity android:name=".Business1Activity" />
+
+        <meta-data
+            android:name="com.luffy.business1.ModuleName1"
+            android:value="module_name" />
+        <meta-data
+            android:name="com.luffy.business1.Business1Provider"
+            android:value="business1" />
+    </application>
+
+</manifest>
