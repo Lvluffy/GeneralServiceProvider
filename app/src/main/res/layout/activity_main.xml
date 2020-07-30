@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-android:orientation="vertical"
-android:padding="10dp">
-
-<TextView
-    android:id="@+id/txt_content"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:hint="注册的服务" />
-
-<Button
-    android:id="@+id/btn_1"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="跳转业务组件1" />
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
 
-<Button
-    android:id="@+id/btn_2"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="跳转业务组件2" />
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转业务组件1" />
+
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转业务组件2" />
 
 </LinearLayout>

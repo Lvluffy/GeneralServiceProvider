@@ -6,11 +6,9 @@
         <activity android:name=".Business1Activity" />
 
         <meta-data
-            android:name="com.luffy.business1.ModuleName1"
-            android:value="module_name" />
-        <meta-data
             android:name="com.luffy.business1.Business1Provider"
             android:value="business1" />
+
     </application>
 
 </manifest>

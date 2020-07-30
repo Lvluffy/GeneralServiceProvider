@@ -7,7 +7,7 @@ package com.luffy.baselayer;
  */
 public interface IBusiness1Provider {
     /**
-     * 获取模块名称
+     * 获取数据
      *
      * @return
      */

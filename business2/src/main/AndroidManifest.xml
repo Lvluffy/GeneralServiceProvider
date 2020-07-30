@@ -3,11 +3,7 @@
     package="com.luffy.business2">
 
     <application>
-        <activity android:name=".Business2Activity"></activity>
-
-        <meta-data
-            android:name="com.luffy.business2.ModuleName2"
-            android:value="module_name" />
+        <activity android:name=".Business2Activity" />
 
         <meta-data
             android:name="com.luffy.business2.Business2Provider"
